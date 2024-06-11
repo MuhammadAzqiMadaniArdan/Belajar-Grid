@@ -1,6 +1,8 @@
-Sebuah Repositori Pembelajaran Grid Css 😎
+<h3>Sebuah Repositori Pembelajaran Grid Css 😎</h3>
 
-->Penjelasan Repository terdapat dibawah (live like a code)
+<h5>Penjelasan Repository terdapat dibawah (live like a code)</h5>
+
+<h1>Grid Component</h1>
 
 1.GtC itu horizontal samping X
 2.GtR itu Vertikal atas bawah Y
