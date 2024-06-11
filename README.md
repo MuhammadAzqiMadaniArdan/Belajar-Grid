@@ -5,9 +5,10 @@
 <h1>Grid Component</h1>
 
 1.GtC itu horizontal samping X
+
 2.GtR itu Vertikal atas bawah Y
+
 3.Autoflow GAF 
-->
 
 4.Grid Values
 ->track size -> px, %,auto,fr
